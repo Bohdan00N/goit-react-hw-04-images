@@ -1,6 +1,6 @@
 {
-  "short_name": "image",
-  "name": "goit-react-hw-04-image",
+  "short_name": "React App",
+  "name": "Create React App Sample",
   "icons": [
     {
       "src": "favicon.ico",
