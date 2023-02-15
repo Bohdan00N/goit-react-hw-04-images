@@ -53,6 +53,7 @@ export const App = () => {
 
       fetchData();
     }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [imageName, currentPage]);
 
   const handleFormSubmit = imageName => {
